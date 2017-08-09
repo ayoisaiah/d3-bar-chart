@@ -20,3 +20,5 @@ Fulfill the below user stories. Use whichever libraries or APIs you need. Give i
 ## My Work
 
 https://codepen.io/ayoisaiah/full/wqdJPd/
+
+![Visualize Data with a Bar Chart](https://cdn.rawgit.com/ayoisaiah/d3-bar-chart/8d998c01/screenshot.png)
